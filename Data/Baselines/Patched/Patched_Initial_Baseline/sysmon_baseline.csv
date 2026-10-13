@@ -1,0 +1,1449 @@
+"TimeCreated","Id","Message"
+"15/04/2026 17:09:21","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:09:21.632
+ProcessGuid: {c04b9554-b831-69df-8906-000000000100}
+ProcessId: 4992
+Image: C:\Windows\System32\NETSTAT.EXE
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:09:21","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:09:21.614
+ProcessGuid: {c04b9554-b831-69df-8906-000000000100}
+ProcessId: 4992
+Image: C:\Windows\System32\NETSTAT.EXE
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: TCP/IP Netstat Command
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: netstat.exe
+CommandLine: ""C:\Windows\system32\NETSTAT.EXE"" -ano
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-1795-2b0000000000}
+LogonId: 0x2B9517
+TerminalSessionId: 2
+IntegrityLevel: High
+Hashes: SHA256=B094E827AF70241D71BED9767EC1A254FDC4164A646B2BA4C7105CD783ADBA0D
+ParentProcessGuid: {c04b9554-b52f-69df-3306-000000000100}
+ParentProcessId: 1600
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:09:17","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:09:17.961
+ProcessGuid: {c04b9554-b819-69df-8606-000000000100}
+ProcessId: 4312
+Image: C:\Windows\System32\notepad.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:09:00","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:09:00.825
+ProcessGuid: {c04b9554-b81c-69df-8806-000000000100}
+ProcessId: 3996
+Image: C:\Windows\System32\SearchFilterHost.exe
+FileVersion: 7.0.19041.3758 (WinBuild.160101.0800)
+Description: Microsoft Windows Search Filter Host
+Product: Windows? Search
+Company: Microsoft Corporation
+OriginalFileName: SearchFilterHost.exe
+CommandLine: ""C:\Windows\system32\SearchFilterHost.exe"" 0 796 800 808 8192 804 780 
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: Medium
+Hashes: SHA256=08500481DC54125715DE3A0997052F781BF7674DC108520C8DFD38B731BC59DF
+ParentProcessGuid: {c04b9554-b3c1-69c2-2d00-000000000100}
+ParentProcessId: 2592
+ParentImage: C:\Windows\System32\SearchIndexer.exe
+ParentCommandLine: C:\Windows\system32\SearchIndexer.exe /Embedding
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:09:00","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:09:00.790
+ProcessGuid: {c04b9554-b81c-69df-8706-000000000100}
+ProcessId: 8280
+Image: C:\Windows\System32\SearchProtocolHost.exe
+FileVersion: 7.0.19041.3758 (WinBuild.160101.0800)
+Description: Microsoft Windows Search Protocol Host
+Product: Windows? Search
+Company: Microsoft Corporation
+OriginalFileName: SearchProtocolHost.exe
+CommandLine: ""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-4171920883-1800387415-1261315805-100119_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-4171920883-1800387415-1261315805-100119 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=DE9CB5458CA8144610F2B7532A2659752A4D0F7D20865B0A00F767EA91753237
+ParentProcessGuid: {c04b9554-b3c1-69c2-2d00-000000000100}
+ParentProcessId: 2592
+ParentImage: C:\Windows\System32\SearchIndexer.exe
+ParentCommandLine: C:\Windows\system32\SearchIndexer.exe /Embedding
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:08:57","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:08:57.365
+ProcessGuid: {c04b9554-b819-69df-8606-000000000100}
+ProcessId: 4312
+Image: C:\Windows\System32\notepad.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Notepad
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: NOTEPAD.EXE
+CommandLine: ""C:\Windows\system32\notepad.exe"" C:\baseline_collect.ps1
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-1795-2b0000000000}
+LogonId: 0x2B9517
+TerminalSessionId: 2
+IntegrityLevel: High
+Hashes: SHA256=BAEFAFD4C558E8EC66A5772B8AC8DC18D51789CCAF97BE5FC66CD63A71CAF75C
+ParentProcessGuid: {c04b9554-b52f-69df-3306-000000000100}
+ParentProcessId: 1600
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:08:55","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:08:55.417
+ProcessGuid: {c04b9554-b817-69df-8506-000000000100}
+ProcessId: 8496
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:08:55","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:08:55.268
+ProcessGuid: {c04b9554-b817-69df-8506-000000000100}
+ProcessId: 8496
+Image: C:\Windows\System32\taskhostw.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Host Process for Windows Tasks
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: taskhostw.exe
+CommandLine: taskhostw.exe USER
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.904
+ProcessGuid: {c04b9554-b67c-69df-6a06-000000000100}
+ProcessId: 8056
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.886
+ProcessGuid: {c04b9554-b676-69df-5c06-000000000100}
+ProcessId: 5956
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.886
+ProcessGuid: {c04b9554-b676-69df-6206-000000000100}
+ProcessId: 6608
+Image: C:\Program Files\Windows Defender\MpCmdRun.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.886
+ProcessGuid: {c04b9554-b676-69df-5b06-000000000100}
+ProcessId: 2836
+Image: C:\Windows\System32\CompatTelRunner.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.880
+ProcessGuid: {c04b9554-b7d9-69df-8406-000000000100}
+ProcessId: 3540
+Image: C:\Windows\System32\taskhostw.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:53","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:07:53.788
+ProcessGuid: {c04b9554-b7d9-69df-8406-000000000100}
+ProcessId: 3540
+Image: C:\Windows\System32\taskhostw.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Host Process for Windows Tasks
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: taskhostw.exe
+CommandLine: taskhostw.exe ""C:\Windows\system32\compattelrunner.exe"" -maintenance
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:42","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:42.242
+ProcessGuid: {c04b9554-b6a2-69df-6d06-000000000100}
+ProcessId: 1680
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+"15/04/2026 17:07:17","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:17.618
+ProcessGuid: {c04b9554-b734-69df-7f06-000000000100}
+ProcessId: 8316
+Image: C:\Windows\servicing\TrustedInstaller.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:07:17","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:07:17.618
+ProcessGuid: {c04b9554-b734-69df-8006-000000000100}
+ProcessId: 4584
+Image: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:56","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:56.388
+ProcessGuid: {c04b9554-b739-69df-8306-000000000100}
+ProcessId: 7120
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:56","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:56.388
+ProcessGuid: {c04b9554-b739-69df-8206-000000000100}
+ProcessId: 1980
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:16","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:16.368
+ProcessGuid: {c04b9554-b676-69df-6306-000000000100}
+ProcessId: 1968
+Image: C:\Windows\System32\cleanmgr.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:16","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:16.315
+ProcessGuid: {c04b9554-b6e7-69df-7306-000000000100}
+ProcessId: 6904
+Image: C:\Users\Rusty\AppData\Local\Temp\48C4BF71-2A95-4F82-A81E-DCFB5B1992A6\DismHost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:14","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:14.668
+ProcessGuid: {c04b9554-b6a1-69df-6c06-000000000100}
+ProcessId: 92
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:13","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:13.976
+ProcessGuid: {c04b9554-b739-69df-8306-000000000100}
+ProcessId: 7120
+Image: C:\Windows\System32\RuntimeBroker.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Runtime Broker
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: RuntimeBroker.exe
+CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:13","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:13.924
+ProcessGuid: {c04b9554-b736-69df-8106-000000000100}
+ProcessId: 7956
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:13","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:13.293
+ProcessGuid: {c04b9554-b739-69df-8206-000000000100}
+ProcessId: 1980
+Image: C:\Windows\System32\RuntimeBroker.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Runtime Broker
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: RuntimeBroker.exe
+CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:10","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:10.165
+ProcessGuid: {c04b9554-b736-69df-8106-000000000100}
+ProcessId: 7956
+Image: C:\Windows\System32\backgroundTaskHost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Background Task Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: backgroundTaskHost.exe
+CommandLine: ""C:\Windows\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider
+CurrentDirectory: C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: AppContainer
+Hashes: SHA256=7077CBF56490C86FC74C0CC6C0379AB679F06A066E71906AD23458F664836449
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.724
+ProcessGuid: {c04b9554-b734-69df-8006-000000000100}
+ProcessId: 4584
+Image: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe
+FileVersion: 10.0.19041.3745 (WinBuild.160101.0800)
+Description: Windows Modules Installer Worker
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: TiWorker.exe
+CommandLine: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe -Embedding
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=32375C229191BED9C301606AA7D3ABE6C8A368417DDDC82E59622957084AA942
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.693
+ProcessGuid: {c04b9554-b734-69df-7f06-000000000100}
+ProcessId: 8316
+Image: C:\Windows\servicing\TrustedInstaller.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Windows Modules Installer
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: TrustedInstaller.exe
+CommandLine: C:\Windows\servicing\TrustedInstaller.exe
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=D6C9EAE7AEA81997D17DBFDB3218D18A1F3421A19C085E3CAB6A9F17919AAF07
+ParentProcessGuid: {c04b9554-b3b7-69c2-0b00-000000000100}
+ParentProcessId: 820
+ParentImage: C:\Windows\System32\services.exe
+ParentCommandLine: C:\Windows\system32\services.exe
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.474
+ProcessGuid: {c04b9554-b676-69df-5806-000000000100}
+ProcessId: 8640
+Image: C:\Windows\System32\taskhostw.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.443
+ProcessGuid: {c04b9554-b6c4-69df-7106-000000000100}
+ProcessId: 312
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.440
+ProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ProcessId: 5544
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.395
+ProcessGuid: {c04b9554-b734-69df-7e06-000000000100}
+ProcessId: 6784
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.373
+ProcessGuid: {c04b9554-b733-69df-7d06-000000000100}
+ProcessId: 7308
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:08","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:08.008
+ProcessGuid: {c04b9554-b734-69df-7e06-000000000100}
+ProcessId: 6784
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b733-69df-7d06-000000000100}
+ParentProcessId: 7308
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /StopEvent:1360
+ParentUser: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:08","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.997
+ProcessGuid: {c04b9554-b733-69df-7d06-000000000100}
+ProcessId: 7308
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft .NET Framework optimization service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: NGenTask.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /StopEvent:1360
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=21CFA6BBC96779923E21CA05F14A32AB24CF45EB0C448AA0C4F60B71635924D8
+ParentProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ParentProcessId: 5544
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.766
+ProcessGuid: {c04b9554-b733-69df-7b06-000000000100}
+ProcessId: 284
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.754
+ProcessGuid: {c04b9554-b733-69df-7c06-000000000100}
+ProcessId: 8064
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.512
+ProcessGuid: {c04b9554-b733-69df-7c06-000000000100}
+ProcessId: 8064
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: .NET Runtime Optimization Service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: mscorsvw.exe
+CommandLine: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe -StartupEvent 20c -InterruptEvent 0 -NGENProcess 1f8 -Pipe 208 -Comment ""NGen Worker Process""
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=3E5099F573601926E59862FBA2495974688E72677C73F10E4C99E26A76CDCF37
+ParentProcessGuid: {c04b9554-b733-69df-7b06-000000000100}
+ParentProcessId: 284
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe"" install ""System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"" /NoDependencies /noroot /version:v4.0.30319 /LegacyServiceBehavior
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.383
+ProcessGuid: {c04b9554-b733-69df-7b06-000000000100}
+ProcessId: 284
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe"" install ""System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"" /NoDependencies /noroot /version:v4.0.30319 /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=D0105566BC22EF92204E163428E5FEDA866F8A9B2BE19BE3B95E6327FFF3F8C6
+ParentProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ParentProcessId: 5544
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.363
+ProcessGuid: {c04b9554-b6b9-69df-6f06-000000000100}
+ProcessId: 1160
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.355
+ProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ProcessId: 8256
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.310
+ProcessGuid: {c04b9554-b733-69df-7a06-000000000100}
+ProcessId: 8872
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:07","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.306
+ProcessGuid: {c04b9554-b733-69df-7906-000000000100}
+ProcessId: 5484
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:07","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.051
+ProcessGuid: {c04b9554-b733-69df-7a06-000000000100}
+ProcessId: 8872
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b733-69df-7906-000000000100}
+ParentProcessId: 5484
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /StopEvent:1356
+ParentUser: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:05:07","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:07.037
+ProcessGuid: {c04b9554-b733-69df-7906-000000000100}
+ProcessId: 5484
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft .NET Framework optimization service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: NGenTask.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /StopEvent:1356
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=FF70C1B71440E34931EB8EF97236F3CB2BB2668C72E7A3338660CED5C0753AF8
+ParentProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ParentProcessId: 8256
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.802
+ProcessGuid: {c04b9554-b732-69df-7706-000000000100}
+ProcessId: 6080
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.793
+ProcessGuid: {c04b9554-b732-69df-7506-000000000100}
+ProcessId: 8552
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.793
+ProcessGuid: {c04b9554-b732-69df-7806-000000000100}
+ProcessId: 8368
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.625
+ProcessGuid: {c04b9554-b732-69df-7806-000000000100}
+ProcessId: 8368
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe"" ExecuteQueuedItems /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=D0105566BC22EF92204E163428E5FEDA866F8A9B2BE19BE3B95E6327FFF3F8C6
+ParentProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ParentProcessId: 5544
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.590
+ProcessGuid: {c04b9554-b732-69df-7606-000000000100}
+ProcessId: 8924
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.368
+ProcessGuid: {c04b9554-b732-69df-7706-000000000100}
+ProcessId: 6080
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: .NET Runtime Optimization Service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: mscorsvw.exe
+CommandLine: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe -StartupEvent 1c8 -InterruptEvent 0 -NGENProcess 1b4 -Pipe 1c4 -Comment ""NGen Worker Process""
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=DA1087BA2641EFD77D85E5838AEB6C333E80CAA9F24C889FD2DE2E0B58F8D1A5
+ParentProcessGuid: {c04b9554-b732-69df-7506-000000000100}
+ParentProcessId: 8552
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe"" install ""System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"" /NoDependencies /noroot /version:v4.0.30319 /LegacyServiceBehavior
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.363
+ProcessGuid: {c04b9554-b732-69df-7606-000000000100}
+ProcessId: 8924
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe"" RemoveTaskDelayStartTrigger /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=D0105566BC22EF92204E163428E5FEDA866F8A9B2BE19BE3B95E6327FFF3F8C6
+ParentProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ParentProcessId: 5544
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:05:06","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:05:06.325
+ProcessGuid: {c04b9554-b732-69df-7506-000000000100}
+ProcessId: 8552
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe"" install ""System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"" /NoDependencies /noroot /version:v4.0.30319 /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=A446D35F5E60BDAE1A7117B71D90ABB0FEA424EE416B0E0ECD2C485DC5939A68
+ParentProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ParentProcessId: 8256
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:04:46","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:04:46.246
+ProcessGuid: {c04b9554-b70b-69df-7406-000000000100}
+ProcessId: 2752
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:04:27","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:04:27.265
+ProcessGuid: {c04b9554-b70b-69df-7406-000000000100}
+ProcessId: 2752
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe"" ExecuteQueuedItems /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=A446D35F5E60BDAE1A7117B71D90ABB0FEA424EE416B0E0ECD2C485DC5939A68
+ParentProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ParentProcessId: 8256
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:04:13","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:04:13.000
+ProcessGuid: {c04b9554-b6e4-69df-7206-000000000100}
+ProcessId: 3208
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:04:00","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:04:00.363
+ProcessGuid: {c04b9554-b675-69df-5206-000000000100}
+ProcessId: 3224
+Image: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:04:00","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:04:00.353
+ProcessGuid: {c04b9554-b675-69df-5106-000000000100}
+ProcessId: 9176
+Image: C:\Windows\servicing\TrustedInstaller.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:51","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:51.670
+ProcessGuid: {c04b9554-b6e7-69df-7306-000000000100}
+ProcessId: 6904
+Image: C:\Users\Rusty\AppData\Local\Temp\48C4BF71-2A95-4F82-A81E-DCFB5B1992A6\DismHost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Dism Host Servicing Process
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: DismHost.exe
+CommandLine: C:\Users\Rusty\AppData\Local\Temp\48C4BF71-2A95-4F82-A81E-DCFB5B1992A6\dismhost.exe {16177076-25B8-4F62-99D0-B4BE3BA5EED6}
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-1795-2b0000000000}
+LogonId: 0x2B9517
+TerminalSessionId: 2
+IntegrityLevel: High
+Hashes: SHA256=E36BCF02BC11F560761E943D0FAD37417078F6CBB473F85C72FCBC89E2600C58
+ParentProcessGuid: {c04b9554-b676-69df-6306-000000000100}
+ParentProcessId: 1968
+ParentImage: C:\Windows\System32\cleanmgr.exe
+ParentCommandLine: ""C:\Windows\system32\cleanmgr.exe"" /autoclean /d C:
+ParentUser: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:03:48","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:48.077
+ProcessGuid: {c04b9554-b6e4-69df-7206-000000000100}
+ProcessId: 3208
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft Common Language Runtime native compiler
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: ngen.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe"" RemoveTaskDelayStartTrigger /LegacyServiceBehavior
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=A446D35F5E60BDAE1A7117B71D90ABB0FEA424EE416B0E0ECD2C485DC5939A68
+ParentProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ParentProcessId: 8256
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:16","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:16.014
+ProcessGuid: {c04b9554-b6c4-69df-7106-000000000100}
+ProcessId: 312
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ParentProcessId: 5544
+ParentImage: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:13","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:03:13.619
+ProcessGuid: {c04b9554-b67c-69df-6906-000000000100}
+ProcessId: 5204
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:11","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:11.255
+ProcessGuid: {c04b9554-b6bf-69df-7006-000000000100}
+ProcessId: 5544
+Image: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft .NET Framework optimization service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: NGenTask.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:616
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=21CFA6BBC96779923E21CA05F14A32AB24CF45EB0C448AA0C4F60B71635924D8
+ParentProcessGuid: {c04b9554-b676-69df-5806-000000000100}
+ParentProcessId: 8640
+ParentImage: C:\Windows\System32\taskhostw.exe
+ParentCommandLine: taskhostw.exe
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:08","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:03:08.874
+ProcessGuid: {c04b9554-b676-69df-6106-000000000100}
+ProcessId: 6900
+Image: C:\Windows\System32\dstokenclean.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:05","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:05.358
+ProcessGuid: {c04b9554-b6b9-69df-6f06-000000000100}
+ProcessId: 1160
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ParentProcessId: 8256
+ParentImage: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+ParentCommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:01","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:03:01.753
+ProcessGuid: {c04b9554-b676-69df-5f06-000000000100}
+ProcessId: 2796
+Image: C:\Windows\System32\taskhostw.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+"15/04/2026 17:03:00","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:03:00.600
+ProcessGuid: {c04b9554-b6b4-69df-6e06-000000000100}
+ProcessId: 8256
+Image: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+FileVersion: 4.8.4320.0 built by: NET48REL1LAST_C
+Description: Microsoft .NET Framework optimization service
+Product: Microsoft? .NET Framework
+Company: Microsoft Corporation
+OriginalFileName: NGenTask.exe
+CommandLine: ""C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe"" /RuntimeWide /StopEvent:604
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=FF70C1B71440E34931EB8EF97236F3CB2BB2668C72E7A3338660CED5C0753AF8
+ParentProcessGuid: {c04b9554-b676-69df-5806-000000000100}
+ParentProcessId: 8640
+ParentImage: C:\Windows\System32\taskhostw.exe
+ParentCommandLine: taskhostw.exe
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:00","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:03:00.560
+ProcessGuid: {c04b9554-b67b-69df-6606-000000000100}
+ProcessId: 6948
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:03:00","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:03:00.287
+ProcessGuid: {c04b9554-b675-69df-4f06-000000000100}
+ProcessId: 8060
+Image: C:\Windows\System32\MoUsoCoreWorker.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:58","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:58.182
+ProcessGuid: {c04b9554-b67b-69df-6706-000000000100}
+ProcessId: 5424
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+"15/04/2026 17:02:53","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:53.431
+ProcessGuid: {c04b9554-b676-69df-5706-000000000100}
+ProcessId: 3496
+Image: C:\Windows\System32\sc.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+"15/04/2026 17:02:51","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:51.059
+ProcessGuid: {c04b9554-b676-69df-5d06-000000000100}
+ProcessId: 5336
+Image: C:\Windows\System32\dmclient.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:51","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:51.057
+ProcessGuid: {c04b9554-b67b-69df-6506-000000000100}
+ProcessId: 3404
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:47","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:47.497
+ProcessGuid: {c04b9554-b67b-69df-6806-000000000100}
+ProcessId: 7604
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:42","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:42.072
+ProcessGuid: {c04b9554-b6a2-69df-6d06-000000000100}
+ProcessId: 1680
+Image: C:\Windows\System32\svchost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Host Process for Windows Services
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: svchost.exe
+CommandLine: C:\Windows\System32\svchost.exe -k NetworkService -p
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\NETWORK SERVICE
+LogonGuid: {c04b9554-b3b7-69c2-e403-000000000000}
+LogonId: 0x3E4
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3
+ParentProcessGuid: {c04b9554-b3b7-69c2-0b00-000000000100}
+ParentProcessId: 820
+ParentImage: C:\Windows\System32\services.exe
+ParentCommandLine: C:\Windows\system32\services.exe
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:41","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:41.638
+ProcessGuid: {c04b9554-b6a1-69df-6c06-000000000100}
+ProcessId: 92
+Image: C:\Windows\System32\backgroundTaskHost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Background Task Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: backgroundTaskHost.exe
+CommandLine: ""C:\Windows\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+CurrentDirectory: C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: AppContainer
+Hashes: SHA256=7077CBF56490C86FC74C0CC6C0379AB679F06A066E71906AD23458F664836449
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:39","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:39.181
+ProcessGuid: {c04b9554-b676-69df-6006-000000000100}
+ProcessId: 8520
+Image: C:\Windows\System32\DiskSnapshot.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:38","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:37.998
+ProcessGuid: {c04b9554-b676-69df-5506-000000000100}
+ProcessId: 3844
+Image: C:\Windows\System32\UCPDMgr.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:36","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:36.808
+ProcessGuid: {c04b9554-b676-69df-5e06-000000000100}
+ProcessId: 7828
+Image: C:\Windows\System32\AppHostRegistrationVerifier.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:02:30","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:30.260
+ProcessGuid: {c04b9554-b691-69df-6b06-000000000100}
+ProcessId: 7760
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:02:27","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:27.306
+ProcessGuid: {c04b9554-b676-69df-5a06-000000000100}
+ProcessId: 8156
+Image: C:\Windows\System32\rundll32.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:25","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:25.167
+ProcessGuid: {c04b9554-b691-69df-6b06-000000000100}
+ProcessId: 7760
+Image: C:\Windows\System32\dllhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: COM Surrogate
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: dllhost.exe
+CommandLine: C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=0309834D40475CCD5A88C48F7FF5EC62E5C6798900357DD83665C3D0345124E0
+ParentProcessGuid: {c04b9554-b3b7-69c2-0f00-000000000100}
+ParentProcessId: 956
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:24","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:24.481
+ProcessGuid: {c04b9554-b677-69df-6406-000000000100}
+ProcessId: 4500
+Image: C:\Windows\System32\rundll32.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:02:15","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:15.439
+ProcessGuid: {c04b9554-b676-69df-5606-000000000100}
+ProcessId: 9036
+Image: C:\Windows\System32\WinBioPlugIns\FaceFodUninstaller.exe
+User: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:04","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:04.792
+ProcessGuid: {c04b9554-b67c-69df-6a06-000000000100}
+ProcessId: 8056
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-6206-000000000100}
+ParentProcessId: 6608
+ParentImage: C:\Program Files\Windows Defender\MpCmdRun.exe
+ParentCommandLine: ""C:\Program Files\Windows Defender\MpCmdRun.exe"" Scan -ScheduleJob -ScanTrigger 55
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:04","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:04.755
+ProcessGuid: {c04b9554-b67c-69df-6906-000000000100}
+ProcessId: 5204
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-6106-000000000100}
+ParentProcessId: 6900
+ParentImage: C:\Windows\System32\dstokenclean.exe
+ParentCommandLine: ""C:\Windows\system32\dstokenclean.exe""
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:03","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:03.579
+ProcessGuid: {c04b9554-b67b-69df-6806-000000000100}
+ProcessId: 7604
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-5506-000000000100}
+ParentProcessId: 3844
+ParentImage: C:\Windows\System32\UCPDMgr.exe
+ParentCommandLine: ""C:\Windows\system32\UCPDMgr.exe""
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:03","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:03.578
+ProcessGuid: {c04b9554-b67b-69df-6706-000000000100}
+ProcessId: 5424
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\LOCAL SERVICE
+LogonGuid: {c04b9554-b3b7-69c2-e503-000000000000}
+LogonId: 0x3E5
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-5706-000000000100}
+ParentProcessId: 3496
+ParentImage: C:\Windows\System32\sc.exe
+ParentCommandLine: ""C:\Windows\system32\sc.exe"" start w32time task_started
+ParentUser: NT AUTHORITY\LOCAL SERVICE"
+"15/04/2026 17:02:03","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:03.567
+ProcessGuid: {c04b9554-b67b-69df-6606-000000000100}
+ProcessId: 6948
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-5d06-000000000100}
+ParentProcessId: 5336
+ParentImage: C:\Windows\System32\dmclient.exe
+ParentCommandLine: ""C:\Windows\system32\dmclient.exe""
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:03","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:02:03.564
+ProcessGuid: {c04b9554-b67b-69df-6506-000000000100}
+ProcessId: 3404
+Image: C:\Windows\System32\conhost.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Console Window Host
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CONHOST.EXE
+CommandLine: \??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1
+CurrentDirectory: C:\Windows
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87
+ParentProcessGuid: {c04b9554-b676-69df-6006-000000000100}
+ParentProcessId: 8520
+ParentImage: C:\Windows\System32\DiskSnapshot.exe
+ParentCommandLine: ""C:\Windows\system32\disksnapshot.exe"" -z
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:02:03","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:02:03.199
+ProcessGuid: {c04b9554-b675-69df-5406-000000000100}
+ProcessId: 4316
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:01:59","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:59.411
+ProcessGuid: {c04b9554-b677-69df-6406-000000000100}
+ProcessId: 4500
+Image: C:\Windows\System32\rundll32.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Windows host process (Rundll32)
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: RUNDLL32.EXE
+CommandLine: rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=00BE065F405E93233CC2F0012DEFDCBB1D6817B58969D5FFD9FD72FC4783C6F4
+ParentProcessGuid: {c04b9554-1f30-69c3-4404-000000000100}
+ParentProcessId: 1508
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k wsappx -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:59","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:01:59.201
+ProcessGuid: {c04b9554-b675-69df-5006-000000000100}
+ProcessId: 8576
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:01:58","5","Process terminated:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.884
+ProcessGuid: {c04b9554-b676-69df-5906-000000000100}
+ProcessId: 4420
+Image: C:\Windows\System32\rundll32.exe
+User: DESKTOP-SQR2A6M\Rusty"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.636
+ProcessGuid: {c04b9554-b676-69df-6306-000000000100}
+ProcessId: 1968
+Image: C:\Windows\System32\cleanmgr.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Disk Space Cleanup Manager for Windows
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: CLEANMGR.DLL
+CommandLine: ""C:\Windows\system32\cleanmgr.exe"" /autoclean /d C:
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-1795-2b0000000000}
+LogonId: 0x2B9517
+TerminalSessionId: 2
+IntegrityLevel: High
+Hashes: SHA256=FE4DEC66C024EDDDE694722025D4D695F36F89209EF3139411FA4E05D4E74475
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.553
+ProcessGuid: {c04b9554-b676-69df-6206-000000000100}
+ProcessId: 6608
+Image: C:\Program Files\Windows Defender\MpCmdRun.exe
+FileVersion: 4.18.1909.6 (WinBuild.160101.0800)
+Description: Microsoft Malware Protection Command Line Utility
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: MpCmdRun.exe
+CommandLine: ""C:\Program Files\Windows Defender\MpCmdRun.exe"" Scan -ScheduleJob -ScanTrigger 55
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=4B9ACE449FC8E4A666FD7E1B650D22EC85A0DC405DDF4BA58A2B938C00CB896C
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.545
+ProcessGuid: {c04b9554-b676-69df-6106-000000000100}
+ProcessId: 6900
+Image: C:\Windows\System32\dstokenclean.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Data Sharing Service Maintenance Driver
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: dstokenclean.exe
+CommandLine: ""C:\Windows\system32\dstokenclean.exe""
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=4E9E55EBE7190C55574C33652AD21D84AE702E83E024D7652773EFFBC1481A6E
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.530
+ProcessGuid: {c04b9554-b676-69df-6006-000000000100}
+ProcessId: 8520
+Image: C:\Windows\System32\DiskSnapshot.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: DiskSnapshot.exe
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: DiskSnapshot.exe
+CommandLine: ""C:\Windows\system32\disksnapshot.exe"" -z
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\SYSTEM
+LogonGuid: {c04b9554-b3b7-69c2-e703-000000000000}
+LogonId: 0x3E7
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=1BBD9E2931A62767D69320442ED2144310BC84EBFD42B32845DC7B2D819A5548
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.498
+ProcessGuid: {c04b9554-b676-69df-5f06-000000000100}
+ProcessId: 2796
+Image: C:\Windows\System32\taskhostw.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Host Process for Windows Tasks
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: taskhostw.exe
+CommandLine: taskhostw.exe
+CurrentDirectory: C:\Windows\system32\
+User: NT AUTHORITY\LOCAL SERVICE
+LogonGuid: {c04b9554-b3b7-69c2-e503-000000000000}
+LogonId: 0x3E5
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"
+"15/04/2026 17:01:58","1","Process Create:
+RuleName: -
+UtcTime: 2026-04-15 16:01:58.493
+ProcessGuid: {c04b9554-b676-69df-5e06-000000000100}
+ProcessId: 7828
+Image: C:\Windows\System32\AppHostRegistrationVerifier.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: App Uri Handlers Registration Verifier
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: AppHostNameRegistrationVerifier.exe
+CommandLine: ""C:\Windows\system32\AppHostRegistrationVerifier.exe""
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-SQR2A6M\Rusty
+LogonGuid: {c04b9554-b716-69c2-5195-2b0000000000}
+LogonId: 0x2B9551
+TerminalSessionId: 2
+IntegrityLevel: Medium
+Hashes: SHA256=B7D99E31175C1F2493D83A5BB0288407DBE5292E02EBD145F31EA2EAEEB7D683
+ParentProcessGuid: {c04b9554-b3b7-69c2-1300-000000000100}
+ParentProcessId: 1036
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\System32\svchost.exe -k netsvcs -p
+ParentUser: NT AUTHORITY\SYSTEM"

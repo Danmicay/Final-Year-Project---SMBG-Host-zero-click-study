@@ -1,0 +1,11 @@
+
+--- Process Changes ---
+New processes: 5
+  + SearchFilterHost
+  + backgroundTaskHost
+  + cmd
+  + smartscreen
+  + SearchProtocolHost
+Stopped processes: 2
+  - audiodg
+  - notepad

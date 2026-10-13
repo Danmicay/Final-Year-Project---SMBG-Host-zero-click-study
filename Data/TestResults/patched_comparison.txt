@@ -1,0 +1,11 @@
+
+--- Process Changes ---
+New processes: 6
+  + Wireshark
+  + UserOOBEBroker
+  + SystemSettings
+  + backgroundTaskHost
+  + mmc
+  + smartscreen
+Stopped processes: 1
+  - msedge
